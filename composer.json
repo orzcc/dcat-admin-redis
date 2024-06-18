@@ -1,5 +1,5 @@
 {
-    "name": "strays/dcat-admin-redis",
+    "name": "orzcc/dcat-admin-redis",
     "alias": "Redis 可视化面板",
     "description": "可视化 Redis 后台管理面板",
     "type": "library",
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "dcat/laravel-admin": "~2.0"
+        "orzcc/laravel-admin": "~2.0"
     },
     "autoload": {
         "psr-4": {
